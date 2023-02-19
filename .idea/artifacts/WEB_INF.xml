@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="WEB-INF">
+    <output-path>$PROJECT_DIR$/out/artifacts/WEB_INF</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="web4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
